@@ -28,7 +28,7 @@ int main() {
 	//for (int i = 0; i < 4; i++) {
 		//std::cout << answer[1] << " ";
 	//}
-	//std::cout < , "\n\n";
+	//std::cout < , "\n\n"; •¶Žš‚ª‰B‚ê‚Ü‚¹‚ñ????????????
 	while (true) {
 		std::cout << "4‚Â‚Ì”Žš:";
 		for (int i = 0; i < 4; i++) {
