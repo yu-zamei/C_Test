@@ -3,6 +3,7 @@
 #include<iostream>
 
 
+
 int main() {
 	srand(time(0));
 
@@ -44,11 +45,11 @@ int main() {
 		}
 		std::cout << std::endl;
 
-		int hit = 0;
-		int blow = 0;
+		int hit = 0;//ƒqƒbƒg”‚¦‚é‚â‚Â
+		int blow = 0;//ƒuƒ[”‚¦‚é‚â‚Â
 
-		for (int i = 0; i < 4; i++) {
-			for (int j = 0; j < 4; j++) {
+		for (int i = 0; i < 4; i++) {   //“š‚¦‚Ì
+			for (int j = 0; j < 4; j++) {  //­ŠE‚Ì
 				if (guess[i] = answer[j]) {
 					if (i == j) {
 						hit++;
